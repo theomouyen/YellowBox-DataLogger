@@ -4,7 +4,7 @@ Software and hardware description of the YellowBox data logger, a custom-built d
 
 ![](https://github.com/theomouyen/YellowBox-DataLogger/blob/main/figures/YB_pic_1.png?raw=true)
 
-Solarized dark             |  Solarized Ocean
+                           |
 :-------------------------:|:-------------------------:
 ![](https://github.com/theomouyen/YellowBox-DataLogger/blob/main/figures/YB_pic_3.png?raw=true)  |  ![](https://github.com/theomouyen/YellowBox-DataLogger/blob/main/figures/YB_pic_4.png?raw=true)
 
