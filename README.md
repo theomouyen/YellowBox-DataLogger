@@ -3,6 +3,7 @@
 Software and hardware description of the YellowBox data logger, a custom-built data logger designed for acoustic recordings in research field campaigns.
 
 ![](figures/pic_YB.pdf)
+![alt text](https://github.com/theomouyen/YellowBox-DataLogger/figures/pic_YB.pdf?raw=true)
 
 The YB data logger can record two channels (BNC connectors, to allow different type of sensors) with a sampling rate up to 192 kHz. It also includes a pressure, temperature and humidity sensor, as well as a GPS module for accurate time and synchronisation.
 
