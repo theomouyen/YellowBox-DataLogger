@@ -2,7 +2,6 @@
 
 Software and hardware description of the YellowBox data logger, a custom-built data logger designed for acoustic recordings in research field campaigns.
 
-![](figures/pic_YB.pdf)
 ![](https://github.com/theomouyen/YellowBox-DataLogger/blob/main/figures/YB_pic_1.png?raw=true)
 
 The YB data logger can record two channels (BNC connectors, to allow different type of sensors) with a sampling rate up to 192 kHz. It also includes a pressure, temperature and humidity sensor, as well as a GPS module for accurate time and synchronisation.
@@ -13,8 +12,7 @@ A Raspberry Pi 3 A+ powered by a power bank is connected to a HifiBerry DAC+ ADC
 
 Here is an overview of the electrical cicuits:
 
-![Overview of the electrical circuit](figures/pic_YB.pdf)
-
+![](https://github.com/theomouyen/YellowBox-DataLogger/blob/main/figures/OverviewEnglish.png?raw=true)
 For more details on the electrical circuits, please refer to the Wiki.
 
 
