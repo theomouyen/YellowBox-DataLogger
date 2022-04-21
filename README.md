@@ -12,7 +12,7 @@ A Raspberry Pi 3 A+ powered by a power bank is connected to a HifiBerry DAC+ ADC
 
 Here is an overview of the electrical cicuits:
 
-![Overview of the electrical circuit](/Users/theomouyen/code/YellowBox/figures/pic_YB.pdf "Electrical circuit")
+![Overview of the electrical circuit](/Users/theomouyen/code/YellowBox/figures/pic_YB.pdf?raw=true "Electrical circuit")
 
 For more details on the electrical circuits, please refer to the Wiki.
 
