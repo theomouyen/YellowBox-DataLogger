@@ -6,7 +6,7 @@ Software and hardware description of the YellowBox data logger, a custom-built d
 
 Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
-![](hhttps://github.com/theomouyen/YellowBox-DataLogger/blob/main/figures/YB_pic_3.png?raw=true)  |  ![](https://github.com/theomouyen/YellowBox-DataLogger/blob/main/figures/YB_pic_4.png?raw=true)
+![](https://github.com/theomouyen/YellowBox-DataLogger/blob/main/figures/YB_pic_3.png?raw=true)  |  ![](https://github.com/theomouyen/YellowBox-DataLogger/blob/main/figures/YB_pic_4.png?raw=true)
 
 
 The YB data logger can record two channels (BNC connectors, to allow different type of sensors) with a sampling rate up to 192 kHz. It also includes a pressure, temperature and humidity sensor, as well as a GPS module for accurate time and synchronisation.
